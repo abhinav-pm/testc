@@ -1,0 +1,13 @@
+11/24/2024 05:57:56 - INFO - root - Eval_Avg_Precision: 42.88
+11/24/2024 05:57:56 - INFO - root - Eval_Avg_Recall: 20.82
+11/24/2024 05:57:56 - INFO - root - Eval_Avg_F1: 27.97
+
+Log file path: /content/coref-hoi-master_main_telugu/Outs/best/log_Nov24_05-57-46.txt
+Loaded model from /content/coref-hoi-master_main_telugu/Outs/best/model_Nov24_05-33-10.bin
+Loaded tensorized examples from cache
+Step 0: evaluating on 41 samples...
+Eval_Avg_Precision: 42.88
+Eval_Avg_Recall: 20.82
+Eval_Avg_F1: 27.97
+Official result for muc
+version: 8.01 /content/coref-hoi-master_main_telugu/Outs/reference-coreference-scorers/v8.01/lib/CorScorer.pm
